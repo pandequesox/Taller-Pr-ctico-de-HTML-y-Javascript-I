@@ -1,0 +1,55 @@
+/*Autor: Santiago Osorio Obando*/
+body{
+	background-color:BurlyWood;
+}
+span{
+	color:black;
+	clear:right;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.testClass{
+	color:blue;
+	font-size:170%
+}
+h1{
+	color:black;
+	font-size:200%;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+h2{
+	color:black;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+.divHead{
+	height:80px;width:100%;
+	text-align:center;
+	background-color:Brown;
+}
+table.matrix{
+	border:1px dashed black;
+	width:15%;
+	font-size:120%
+}
+p.answer{
+	color:black;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+button{
+	background-color: Brown;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+/*Cells*/
+td{
+	border:1px dashed black;
+	background-color:white;
+}
+tr:nth-child(even){
+	background-color:black;
+}
