@@ -6,4 +6,4 @@ que permiten que la página tenga interacción con el usuario y no sea totalment
 - Una que permite calcular la suma, resta, multiplicación y división de 2 números.
 - Otra que permite visualizar una matriz identidad del tamaño que el usuario indique.
 
-Trabajo para la clase de Técnicas de Programación, docente, Diana Margot Lopez.
+Trabajo para la clase de Técnicas de Programación, docente, Diana Margot Lopez. Universidad De Antioquia.
